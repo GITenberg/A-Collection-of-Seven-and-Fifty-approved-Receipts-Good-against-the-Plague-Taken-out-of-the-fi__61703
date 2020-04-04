@@ -1,6 +1,9 @@
 _repo: A-Collection-of-Seven-and-Fifty-approved-Receipts-Good-against-the-Plague-Taken-out-of-the-fi__61703
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A Collection of 7 and 50 approved Receipts Good against the Plague
+covers:
+- cover_type: archival
+  image_path: 61703-h/images/cover.jpg
 creator:
   authors:
   - agent_name: W. J.
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '51588'
     url: http://www.gutenberg.org/2009/agents/51588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61703#A-Collection-of-Seven-and-Fifty-approved-Receipts-Good-against-the-Plague-Taken-out-of-the-fi_
 gutenberg_issued: '2020-03-30'
 gutenberg_type: Text
 identifiers:
