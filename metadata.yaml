@@ -1,0 +1,36 @@
+_repo: A-Collection-of-Seven-and-Fifty-approved-Receipts-Good-against-the-Plague-Taken-out-of-the-fi__61703
+_version: 0.0.1
+alternative_title: A Collection of 7 and 50 approved Receipts Good against the Plague
+creator:
+  authors:
+  - agent_name: W. J.
+    aliases:
+    - WJ
+    - J., W.
+    gutenberg_agent_id: '51587'
+    url: http://www.gutenberg.org/2009/agents/51587
+  - agent_name: Alessio, Piemontese
+    aliases:
+    - Piemontese, Alessio
+    - Piedmont, Alexis of
+    - Alexis, Pedemontanus
+    - Alessio, of Piedmont
+    gutenberg_agent_id: '51588'
+    url: http://www.gutenberg.org/2009/agents/51588
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Plague -- Prevention -- Early works to 1800'
+- GITenberg
+title: "A Collection of Seven and Fifty approved Receipts Good against the Plague\r\
+  \nTaken out of the five books of that renowned Dr. Don Alexes secrets, for the benefit\
+  \ of the poorer sort of people of these nations."
+url: http://www.gutenberg.org/ebooks/61703
